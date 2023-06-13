@@ -1,0 +1,25 @@
+footer{
+	text-align: center;
+	background-color: #1E1E1E;
+	color: #919191;
+	font-size: 12px;
+}
+
+div.mainbox{
+	border: 1px solid #EBEBEB;
+	width: 610px;
+	text-align: right;
+	margin: 0 auto;
+	padding: 30px;
+	margin: 30px;
+}
+
+p{
+	font-size: 30px;
+}
+p.big-font{
+	font-size: 40px;
+}	
+p.small-font{
+	font-size: 15px;
+}
